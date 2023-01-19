@@ -1,3 +1,3 @@
 # Fingerprint (Cache)
 
-Create web cache fingerprints for cross-site tracking.
+An extensions to [fingerprint](https://github.com/oelin/fingerprint-cache) which adds support for cache cookie based fingerprints.

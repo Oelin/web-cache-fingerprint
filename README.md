@@ -1,3 +1,3 @@
-# Fingerprint (Cache)
+# Fingerprint Plugin Cache
 
-An extensions to [fingerprint](https://github.com/oelin/fingerprint-cache) which adds support for cache cookie based fingerprints.
+An plugin for [fingerprint](https://github.com/oelin/fingerprint-cache) which adds support for cache cookie based fingerprints.
